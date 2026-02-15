@@ -242,7 +242,7 @@ http://localhost:8080/StudentMS/login.jsp
 ## 👨‍💻 Author
 
 Aseel Mohammed && Ahmed Alsnhany
-BCA Final Year Student
+BCA Students
 Student Management System Project
 
 ---
