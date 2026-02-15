@@ -243,6 +243,4 @@ http://localhost:8080/StudentMS/login.jsp
 
 Aseel Mohammed && Ahmed Alsnhany
 BCA Students
-Student Management System Project
-
 ---
